@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="lab6ClientTanya:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/lab6ClientTanya_jar</output-path>
+    <root id="root">
+      <element id="archive" name="lab6ClientTanya.jar">
+        <element id="module-output" name="lab6Client" />
+      </element>
+      <element id="library" level="project" name="Maven: com.google.code.gson:gson:2.8.6" />
+    </root>
+  </artifact>
+</component>
