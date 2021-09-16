@@ -43,7 +43,7 @@ public class ConsoleManager {
         commandInvoker.register("clear", new Clear(commandReciever));
         commandInvoker.register("exit", new Exit(commandReciever));
         commandInvoker.register("insert_null", new InsertNull(commandReciever));
-        commandInvoker.register("save", new Save(commandReciever));
+//        commandInvoker.register("save", new Save(commandReciever));
         commandInvoker.register("update_id", new UpdateID(commandReciever));
         commandInvoker.register("count_by_difficulty", new CountByDifficulty(commandReciever));
         commandInvoker.register("print_field", new PrintField(commandReciever));
